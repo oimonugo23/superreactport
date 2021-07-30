@@ -2,7 +2,7 @@
   "name": "oli-imonugo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://oimonugo23.github.io/myapp",
+  "homepage": "https://oimonugo23.github.io/superreactport",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
