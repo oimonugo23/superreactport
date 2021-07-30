@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/superreactport/static/css/main.fdfc1996.chunk.css",
+    "main.js": "/superreactport/static/js/main.137773a4.chunk.js",
+    "main.js.map": "/superreactport/static/js/main.137773a4.chunk.js.map",
+    "runtime-main.js": "/superreactport/static/js/runtime-main.36cd7256.js",
+    "runtime-main.js.map": "/superreactport/static/js/runtime-main.36cd7256.js.map",
+    "static/css/2.e4346227.chunk.css": "/superreactport/static/css/2.e4346227.chunk.css",
+    "static/js/2.d7dc23ce.chunk.js": "/superreactport/static/js/2.d7dc23ce.chunk.js",
+    "static/js/2.d7dc23ce.chunk.js.map": "/superreactport/static/js/2.d7dc23ce.chunk.js.map",
+    "index.html": "/superreactport/index.html",
+    "precache-manifest.2dc2adfd3a5bccf49bc2291c0462befb.js": "/superreactport/precache-manifest.2dc2adfd3a5bccf49bc2291c0462befb.js",
+    "service-worker.js": "/superreactport/service-worker.js",
+    "static/css/2.e4346227.chunk.css.map": "/superreactport/static/css/2.e4346227.chunk.css.map",
+    "static/css/main.fdfc1996.chunk.css.map": "/superreactport/static/css/main.fdfc1996.chunk.css.map",
+    "static/js/2.d7dc23ce.chunk.js.LICENSE.txt": "/superreactport/static/js/2.d7dc23ce.chunk.js.LICENSE.txt",
+    "static/media/JavascriptQuiz.png": "/superreactport/static/media/JavascriptQuiz.581673f8.png",
+    "static/media/NoteTaker.png": "/superreactport/static/media/NoteTaker.463bf376.png",
+    "static/media/Project3ComingSoon.png": "/superreactport/static/media/Project3ComingSoon.8f81bd2b.png",
+    "static/media/RefactorHomework.png": "/superreactport/static/media/RefactorHomework.8aa34329.png",
+    "static/media/TechBlog.png": "/superreactport/static/media/TechBlog.047433e7.png",
+    "static/media/TheWatchSensor.png": "/superreactport/static/media/TheWatchSensor.e297b0e0.png",
+    "static/media/WorkoutTracker.png": "/superreactport/static/media/WorkoutTracker.e4c935ad.png",
+    "static/media/jogjotter.png": "/superreactport/static/media/jogjotter.66687ff8.png",
+    "static/media/App.css": "/superreactport/static/media/landing_bg.38e24bd6.jpg",
+    "static/media/oli_profile.JPG": "/superreactport/static/media/oli_profile.925f48df.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36cd7256.js",
+    "static/css/2.e4346227.chunk.css",
+    "static/js/2.d7dc23ce.chunk.js",
+    "static/css/main.fdfc1996.chunk.css",
+    "static/js/main.137773a4.chunk.js"
+  ]
+}
